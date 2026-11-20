@@ -1,4 +1,11 @@
-# Grégoire Communeau
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Grégoire Communeau, AI Engineer in private banking, Monaco" src="assets/banner-light.svg" width="100%">
+</picture>
+
+<p align="center">
+  <img alt="AI Engineer in private banking · Azure &amp; on-prem · CTF" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+Engineer+in+private+banking;Azure+%26+on-prem;CTF">
+</p>
 
 **AI Engineer in private banking, Monaco.** I work in a role created to drive a private bank's move into AI, and I build AI systems that bankers can trust: grounded in real data, traceable to their sources, and deployed where they belong, in the cloud or on-premise.
 
@@ -6,7 +13,7 @@
 
 - **Applied AI**: LLM agents, document understanding and retrieval, with provenance behind every answer, shipped to production alongside business teams.
 - **Azure and on-premise**: putting each workload in the right place, from managed cloud services to infrastructure that keeps client data in-house.
-- **Security**: co-founder of [NOPSctf](https://ctf.nops.re), an online CTF that grew to nearly 2,500 participants worldwide. Today, a growing interest in the new forms of attack that AI enables, such as autonomous offensive frameworks like ARTEX, and in how institutions holding sensitive client data can defend against them.
+- **Security**: [NOPSctf](https://ctf.nops.re), an online CTF that grew to nearly 2,500 participants worldwide. Today, a growing interest in the new forms of attack that AI enables, such as autonomous offensive frameworks like ARTEX, and in how institutions holding sensitive client data can defend against them.
 - **Private banking**: tools shaped by the realities of the job, such as client confidentiality, compliance and regulatory scrutiny.
 
 ### Background
