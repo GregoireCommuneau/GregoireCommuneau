@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <img alt="AI Engineer in private banking · Azure &amp; on-prem · CTF" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+Engineer+in+private+banking;Azure+%26+on-prem;CTF">
+  <img alt="AI Engineer in private banking · Quantitative finance &amp; statistics · Fixed income · risk · stress testing · Machine learning for markets · Cloud &amp; on-prem" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=AI+Engineer+in+private+banking;Quantitative+finance+%26+statistics;Fixed+income+%C2%B7+risk+%C2%B7+stress+testing;Machine+learning+for+markets;Cloud+%26+on-prem">
 </p>
 
 **AI Engineer in private banking, Monaco.** I work in a role created to drive a private bank's move into AI, and I build AI systems that bankers can trust: grounded in real data, traceable to their sources, and deployed where they belong, in the cloud or on-premise.
